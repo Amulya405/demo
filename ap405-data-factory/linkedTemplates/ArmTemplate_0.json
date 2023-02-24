@@ -221,7 +221,8 @@
 								"referenceName": "AzureSynapseAnalyticsTable1",
 								"type": "DatasetReference"
 							},
-							"name": "sink1"
+							"name": "sink1",
+							"description": "Export data to AzureSynapseAnalyticsTable112"
 						}
 					],
 					"transformations": [
