@@ -11,6 +11,9 @@
 		"AzureSynapseAnalytics1_connectionString": {
 			"value": ""
 		},
+		"AzureSynapseAnalytics2_connectionString": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://awdlsstudap405.dfs.core.windows.net/"
 		},
