@@ -1,0 +1,9 @@
+{
+	"name": "ap405-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a93f9787-5ad9-4303-9897-5224f9caa9b2",
+		"tenantId": "d1b8bc5c-9f64-4d74-b9fd-621847e56fa7"
+	}
+}
