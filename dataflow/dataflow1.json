@@ -9,7 +9,8 @@
 						"referenceName": "DelimitedText2",
 						"type": "DatasetReference"
 					},
-					"name": "source1"
+					"name": "source1",
+					"description": "Import data from DelimitedText223"
 				}
 			],
 			"sinks": [
